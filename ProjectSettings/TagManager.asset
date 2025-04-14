@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Trap
+  - WinPlace
+  - Orange
+  - SpawnPlace
+  - Ground
+  - Basket
+  - Egg
+  - Farmer
+  - FallPlace
+  - Broken
+  - Crosshair
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 860659655
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 438735751
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 194013665
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 4205154269
+    locked: 0
+  m_RenderingLayers:
+  - Default
